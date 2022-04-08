@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/runtime-main.a60b1439.js",
+    "runtime-main.js.map": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/runtime-main.a60b1439.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://utkarsh07-co-in.github.io/csb-1vf9rf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://utkarsh07-co-in.github.io/csb-1vf9rf/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a60b1439.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
